@@ -1,4 +1,4 @@
-Here I briefly discuss teh content of the directory
+Here I briefly discuss the content of the directory
 
 ## Content
 
