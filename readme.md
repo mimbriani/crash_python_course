@@ -6,8 +6,8 @@ I updated the directory. I created a sub-directory [solutions](solutions) that c
 
 - [ex1](ex1) contains the solution to the first exercise with a subdirectory of the renamed files.
 - There is no directory for exercise 2, but the solution can be found in the collaborative project repository, [Exercise 2](https://github.com/imargh/collaborative_project).
-- [ex3](ex3) contains a single scripts for each sub-exercise (please note that non exercise 3.3 was given), and a sub-directory for the package of exercise 3.6.
-- [ex4](ex4) is to be found the package for the class rational numbers, plus a Jupyter Notebook that contains some tests to verify that everything works properly.
+- [ex3](ex3) contains a single scripts for each sub-exercise (please note that no exercise 3.3 was given), and a sub-directory for the package of exercise 3.6.
+- [ex4](ex4) contains the package for the class rational numbers, plus a Jupyter Notebook that contains some tests to verify that everything works properly.
 
 ## Content
 - [solutions](solutions) see above.
