@@ -1,0 +1,5 @@
+from .rational_class import rational
+from .approx_method import *
+from .ex3.5_method.py import *
+
+__all__ = ['rational']  # Espone solo la classe Rational quando si importa tutto il pacchetto
