@@ -1,0 +1,18 @@
+# Ignora i file di sistema
+.DS_Store
+Thumbs.db
+
+# Ignora le cartelle di build
+build/
+bin/
+obj/
+
+# Ignora file di log
+*.log
+
+# Ignora file di configurazione locali
+*.env
+config.local.json
+*.
+# Non ignorare file specifici
+!important-file.txt
