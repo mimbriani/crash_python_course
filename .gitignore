@@ -14,7 +14,7 @@ obj/
 *.env
 config.local.json
 
-.ipynb_checkpoints/
+.*
 
 # Non ignorare file specifici
 !important-file.txt
