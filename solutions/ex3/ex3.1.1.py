@@ -1,6 +1,6 @@
 
 def modulus ( x, y ) :
-    """A function that calculates the Fibonacci sequence up to the n-th term
+    """A function that checks if the first number in input is divisible by the second one
 
     Parameters
     ----------
