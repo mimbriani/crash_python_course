@@ -26,8 +26,10 @@ for file in "$dir"/*; do
 
     if grep -q "photon" "$file"; then
         newname="${name%.*}.photon.dat"  # Changes the extension and adds photon
-    else
+    elif grep -q "energy" "$file"; then
         newname="${name%.*}.energy.dat"  # Changes the extension and adds energy
+    else
+        newname="${name%.*}.unknown.dat"  # Changes the extension and adds unknown for not given files
     fi
 
     cp "$file" "./bandpass_margherita/$newname"
